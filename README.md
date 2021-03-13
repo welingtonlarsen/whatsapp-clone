@@ -6,7 +6,7 @@
 <div align="center">
 
 # WhatsApp UI Clone
-This is a WhatsApp UI Clone to pratice more about design styles.
+This is a WhatsApp UI Clone to pratice more about design styles using Material-UI.
 
 ![](https://img.shields.io/badge/Autor-Welington%20Larsen-brightgreen)
 ![](https://img.shields.io/badge/Language-Javascript-brightgreen)
