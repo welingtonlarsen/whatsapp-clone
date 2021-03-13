@@ -22,6 +22,6 @@ This is a WhatsApp UI Clone to pratice more about design styles using Material-U
 ## Execution
 - Scripts
   ### Run the application (you can use npm or yarn)
-    - 1° command: ``` ./npm build```
-    - 2° command: ```./npm start```
+    - 1° command: ```npm build```
+    - 2° command: ```npm start```
     
