@@ -6,7 +6,7 @@
 <div align="center">
 
 # WhatsApp UI Clone
-This is a WhatsApp UI Clone to pratice more about design styles.
+This is a WhatsApp UI Clone to pratice more about design styles using Material-UI.
 
 ![](https://img.shields.io/badge/Autor-Welington%20Larsen-brightgreen)
 ![](https://img.shields.io/badge/Language-Javascript-brightgreen)
@@ -22,6 +22,6 @@ This is a WhatsApp UI Clone to pratice more about design styles.
 ## Execution
 - Scripts
   ### Run the application (you can use npm or yarn)
-    - 1° command: ``` ./npm build```
-    - 2° command: ```./npm start```
+    - 1° command: ```npm build```
+    - 2° command: ```npm start```
     
